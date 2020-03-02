@@ -2,6 +2,7 @@
     display: inline-block;
     width: 500px;
     padding: 10px 90px;
+    border: 10px solid #f00;
     background-color: #f00;
 }
     .container > p{
